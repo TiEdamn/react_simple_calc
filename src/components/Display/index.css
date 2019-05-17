@@ -1,0 +1,16 @@
+.display__display {
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    line-height: 40px;
+    font-size: 18px;
+}
+
+.display__formula{
+    word-break: break-all;
+    line-height: 20px;
+    font-size: 12px;
+    color: #ddd;
+}
+.display__formula.error{
+    color: #f00;
+}
